@@ -1,3 +1,3 @@
-@extends('back.layout.php')
+@extends('back.layout')
 @section('content')
 @endsection
